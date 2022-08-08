@@ -1,0 +1,10 @@
+﻿  04.07.22.cpp
+C:\Users\99max\Desktop\HW13.07.22-master\04.07.22\Proxy.h(71,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\99max\Desktop\HW13.07.22-master\04.07.22\Proxy.h(108,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\99max\Desktop\HW13.07.22-master\04.07.22\Proxy.h(109,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Proxy.cpp
+C:\Users\99max\Desktop\HW13.07.22-master\04.07.22\Proxy.h(71,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\99max\Desktop\HW13.07.22-master\04.07.22\Proxy.h(108,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\99max\Desktop\HW13.07.22-master\04.07.22\Proxy.h(109,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  04.07.22.vcxproj -> C:\Users\99max\Desktop\HW13.07.22-master\x64\Debug\04.07.22.exe
